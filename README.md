@@ -2,7 +2,13 @@
 tess4j
 
 ## 效果
+![](https://raw.githubusercontent.com/javakam/VerifyCodeIdentify/main/src/main/resources/img/vc_4043.png)
 
+🍎识别结果为 4043
+
+![](https://raw.githubusercontent.com/javakam/VerifyCodeIdentify/main/src/main/resources/img/vc_8505.png)
+
+🍎识别结果为 8505
 
 ## 样例
 1. 引入
